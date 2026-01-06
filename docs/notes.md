@@ -28,3 +28,4 @@ Notes and usage details for cortex-tms.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
