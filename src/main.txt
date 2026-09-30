@@ -50,3 +50,4 @@ The Universal AI-Optimized Project Boilerplate. A Tiered Memory System (TMS) des
 # drop an unused branch
 # guard against empty input
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
