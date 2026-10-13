@@ -56,3 +56,4 @@ Notes and usage details for cortex-tms.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
